@@ -3,7 +3,7 @@ var canvas = new fabric.Canvas('myCanvas');
 
 
 function new_image()
-{  fabric.Image.fromURL("Birthdayimage.jpg", function(img)
+{  fabric.Image.fromURL("BirthdayImage.jpg", function(img)
 {
     block_image_objective=img;
 
